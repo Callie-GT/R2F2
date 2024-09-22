@@ -197,7 +197,7 @@ float flexible_float_multiply(float a, float b, bool *overflow, int EB_in, int M
     // }
 
     // assemble the results back to check the correctness; just for verification purpose
-    // code inside "if" is commented out during synthesis
+    // code inside "if"0 is commented out during synthesis
     myFP flex_result = 0;
     float float_result = 0;
     if( *overflow == false) {
