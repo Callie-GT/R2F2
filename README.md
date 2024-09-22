@@ -1,6 +1,6 @@
 ## R2F2: a *R*un-time *R*econfigurable *F*lexible *F*loating Point Multiplier
 
-### Paper: Exploring and Exploiting Runtime Reconfigurable Floating Point Precision in Scientific Computing: a Case Study for Solving PDEs
+### (paper) Exploring and Exploiting Runtime Reconfigurable Floating Point Precision in Scientific Computing: a Case Study for Solving PDEs
 
 #### Cong Hao (Georgia Tech), ASP-DAC 2025
 
